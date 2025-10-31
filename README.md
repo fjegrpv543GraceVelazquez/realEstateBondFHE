@@ -1,4 +1,4 @@
-```markdown
+
 # Real Estate FHE Bonds: Revolutionizing Asset Financing with Privacy
 
 Real Estate FHE Bonds is a cutting-edge DeFi protocol that enables real estate funds to issue FHE-encrypted bonds backed by their portfolios. Powered by **Zama's Fully Homomorphic Encryption technology**, this platform allows for confidential, secure financial transactions, staying true to the ethos of privacy in digital finance.
